@@ -1,7 +1,7 @@
 # Smart Contract Security Dataset
 
 ## Dataset
-This study used a dataset that had been used by [5], containing **1,353 smart contracts** with Solidity code, bytecode, and opcode, collected from the Ethereum official website **[Etherscan.io](https://etherscan.io/)**. This dataset is categorized into 8 classes: **Decentralized Autonomous Organizations (DAO), Exploit, Gambling, Heist, Parity Bug, Phish Hack, Ponzi, and Spam Token**. The sample distribution of each class is illustrated in Figure 5.
+This study used a dataset that had been used, containing **1,353 smart contracts** with Solidity code, bytecode, and opcode, collected from the Ethereum official website **[Etherscan.io](https://etherscan.io/)**. This dataset is categorized into 8 classes: **Decentralized Autonomous Organizations (DAO), Exploit, Gambling, Heist, Parity Bug, Phish Hack, Ponzi, and Spam Token**. The sample distribution of each class is illustrated in Figure 5.
 
 ## Classes
 This study categorizes malicious smart contracts into different classes, briefly explained below:
